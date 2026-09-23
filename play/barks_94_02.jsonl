@@ -45,3 +45,6 @@
 {"n":45,"kind":"place","name":"Drydock north roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock north roof. Nia keeps the crate for the hit. 3 steps, arc on the left lane, open."}
 {"n":46,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north roof. arc left open. 4 steps. The crate stays for the hit."}
 {"n":47,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Drydock. Nobody past the north roof. We hit in 5 steps. Arc on the left lane, open."}
+{"n":48,"kind":"place","name":"Drydock north roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock north roof. Ivo keeps the crate for the hit. 6 steps, arc on the left lane, open."}
+{"n":49,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north roof. arc left open. 7 steps. The crate stays for the hit."}
+{"n":50,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Drydock. Nobody past the north roof. We hit in 8 steps. Arc on the left lane, open."}
