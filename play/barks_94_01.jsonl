@@ -643,3 +643,6 @@
 {"n":643,"kind":"place","name":"Mast yard north roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard north roof. Bess keeps the hydrant for the hit. 7 steps, arc on the left lane, open."}
 {"n":644,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north roof. arc left open. 8 steps. The hydrant stays for the hit."}
 {"n":645,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at Last Light. Nobody past the north roof. We hit in 2 steps. Arc on the left lane, open."}
+{"n":646,"kind":"place","name":"Last Light north roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light north roof. Matt keeps the hydrant for the hit. 3 steps, arc on the left lane, open."}
+{"n":647,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north roof. arc left open. 4 steps. The hydrant stays for the hit."}
+{"n":648,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Last Light. Nobody past the north roof. We hit in 5 steps. Arc on the left lane, open."}
