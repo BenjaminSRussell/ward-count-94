@@ -419,3 +419,6 @@
 {"n":419,"kind":"place","name":"the Lot east roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot east roof. Bess keeps the rope for the hit. 8 steps, arc on the left lane, open."}
 {"n":420,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east roof. arc left open. 2 steps. The rope stays for the hit."}
 {"n":421,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Stockyard fence. Nobody past the east roof. We hit in 3 steps. Arc on the left lane, open."}
+{"n":422,"kind":"place","name":"Stockyard fence east roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence east roof. Matt keeps the rope for the hit. 4 steps, arc on the left lane, open."}
+{"n":423,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east roof. arc left open. 5 steps. The rope stays for the hit."}
+{"n":424,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Stockyard fence. Nobody past the east roof. We hit in 6 steps. Arc on the left lane, open."}
