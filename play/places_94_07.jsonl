@@ -578,3 +578,6 @@
 {"n":578,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east slip. arc left open. 6 steps. The plywood stays for the hit."}
 {"n":579,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Switchyard. Nobody past the east slip. We hit in 7 steps. Arc on the left lane, open."}
 {"n":580,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard east slip. Ivo keeps the plywood for the hit. 8 steps, arc on the left lane, open."}
+{"n":581,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east slip. arc left open. 2 steps. The plywood stays for the hit."}
+{"n":582,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Switchyard. Nobody past the east slip. We hit in 3 steps. Arc on the left lane, open."}
+{"n":583,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard east slip. Bess keeps the plywood for the hit. 4 steps, arc on the left lane, open."}
