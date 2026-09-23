@@ -132,3 +132,6 @@
 {"n":132,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west slip. arc left open. 2 steps. The lamp stays for the hit."}
 {"n":133,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Stockyard fence. Nobody past the west slip. We hit in 3 steps. Arc on the left lane, open."}
 {"n":134,"kind":"place","name":"Stockyard fence west slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence west slip. Matt keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
+{"n":135,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west slip. arc left open. 5 steps. The lamp stays for the hit."}
+{"n":136,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Stockyard fence. Nobody past the west slip. We hit in 6 steps. Arc on the left lane, open."}
+{"n":137,"kind":"place","name":"Stockyard fence west slip","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence west slip. Nia keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
