@@ -212,3 +212,6 @@
 {"n":212,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard north roof. Ivo keeps the badge door for the hit. 8 steps, arc on the left lane, open."}
 {"n":213,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north roof. arc left open. 2 steps. The badge door stays for the hit."}
 {"n":214,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at Switchyard. Nobody past the north roof. We hit in 3 steps. Arc on the left lane, open."}
+{"n":215,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard north roof. Bess keeps the badge door for the hit. 4 steps, arc on the left lane, open."}
+{"n":216,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north roof. arc left open. 5 steps. The badge door stays for the hit."}
+{"n":217,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Drydock. Nobody past the north roof. We hit in 6 steps. Arc on the left lane, open."}
