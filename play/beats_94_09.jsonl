@@ -430,3 +430,6 @@
 {"n":430,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Switchyard. Nobody past the east slip. We hit in 3 steps. Arc on the left lane, open."}
 {"n":431,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard east slip. Bess keeps the radio coil for the hit. 4 steps, arc on the left lane, open."}
 {"n":432,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east slip. arc left open. 5 steps. The radio coil stays for the hit."}
+{"n":433,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at Drydock. Nobody past the east slip. We hit in 6 steps. Arc on the left lane, open."}
+{"n":434,"kind":"place","name":"Drydock east slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock east slip. Matt keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
+{"n":435,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east slip. arc left open. 8 steps. The radio coil stays for the hit."}
