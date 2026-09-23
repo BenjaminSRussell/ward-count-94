@@ -734,3 +734,6 @@
 {"n":734,"kind":"place","name":"Kessler alley east roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley east roof. Matt keeps the awning for the hit. 8 steps, arc on the left lane, open."}
 {"n":735,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, east roof. arc left open. 2 steps. The awning stays for the hit."}
 {"n":736,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Kessler alley. Nobody past the east roof. We hit in 3 steps. Arc on the left lane, open."}
+{"n":737,"kind":"place","name":"Kessler alley east roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley east roof. Nia keeps the awning for the hit. 4 steps, arc on the left lane, open."}
+{"n":738,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east roof. arc left open. 5 steps. The awning stays for the hit."}
+{"n":739,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Kessler alley. Nobody past the east roof. We hit in 6 steps. Arc on the left lane, open."}
