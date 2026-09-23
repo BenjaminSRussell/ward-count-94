@@ -559,3 +559,6 @@
 {"n":559,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at Clinic roof. Nobody past the west slip. We hit in 2 steps. Arc on the left lane, open."}
 {"n":560,"kind":"place","name":"Clinic roof west slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof west slip. Ivo keeps the rope for the hit. 3 steps, arc on the left lane, open."}
 {"n":561,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west slip. arc left open. 4 steps. The rope stays for the hit."}
+{"n":562,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Clinic roof. Nobody past the west slip. We hit in 5 steps. Arc on the left lane, open."}
+{"n":563,"kind":"place","name":"Clinic roof west slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Clinic roof west slip. Bess keeps the rope for the hit. 6 steps, arc on the left lane, open."}
+{"n":564,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west slip. arc left open. 7 steps. The rope stays for the hit."}
