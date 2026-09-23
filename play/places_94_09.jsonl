@@ -657,3 +657,6 @@
 {"n":657,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north slip. arc left open. 6 steps. The hydrant stays for the hit."}
 {"n":658,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at the Lot. Nobody past the north slip. We hit in 7 steps. Arc on the left lane, open."}
 {"n":659,"kind":"place","name":"the Lot north slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot north slip. Bess keeps the hydrant for the hit. 8 steps, arc on the left lane, open."}
+{"n":660,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north slip. arc left open. 2 steps. The hydrant stays for the hit."}
+{"n":661,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at Stockyard fence. Nobody past the north slip. We hit in 3 steps. Arc on the left lane, open."}
+{"n":662,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence north slip. Matt keeps the hydrant for the hit. 4 steps, arc on the left lane, open."}
