@@ -654,3 +654,6 @@
 {"n":654,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, south roof. arc left open. 2 steps. The hydrant stays for the hit."}
 {"n":655,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Mast yard. Nobody past the south roof. We hit in 3 steps. Arc on the left lane, open."}
 {"n":656,"kind":"place","name":"Mast yard south roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard south roof. Ivo keeps the hydrant for the hit. 4 steps, arc on the left lane, open."}
+{"n":657,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south roof. arc left open. 5 steps. The hydrant stays for the hit."}
+{"n":658,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at Mast yard. Nobody past the south roof. We hit in 6 steps. Arc on the left lane, open."}
+{"n":659,"kind":"place","name":"Mast yard south roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard south roof. Bess keeps the hydrant for the hit. 7 steps, arc on the left lane, open."}
