@@ -130,3 +130,6 @@
 {"n":130,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at Mall court. Nobody past the north roof. We hit in 3 steps. Arc on the left lane, open."}
 {"n":131,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court north roof. Bess keeps the badge door for the hit. 4 steps, arc on the left lane, open."}
 {"n":132,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north roof. arc left open. 5 steps. The badge door stays for the hit."}
+{"n":133,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at the Underpass. Nobody past the north roof. We hit in 6 steps. Arc on the left lane, open."}
+{"n":134,"kind":"place","name":"the Underpass north roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass north roof. Matt keeps the badge door for the hit. 7 steps, arc on the left lane, open."}
+{"n":135,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north roof. arc left open. 8 steps. The badge door stays for the hit."}
