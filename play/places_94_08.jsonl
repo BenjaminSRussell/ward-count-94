@@ -214,3 +214,6 @@
 {"n":214,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east slip. arc left open. 5 steps. The lamp stays for the hit."}
 {"n":215,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at South stair. Nobody past the east slip. We hit in 6 steps. Arc on the left lane, open."}
 {"n":216,"kind":"place","name":"South stair east slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair east slip. Ivo keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
+{"n":217,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east slip. arc left open. 8 steps. The lamp stays for the hit."}
+{"n":218,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at South stair. Nobody past the east slip. We hit in 2 steps. Arc on the left lane, open."}
+{"n":219,"kind":"place","name":"South stair east slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair east slip. Bess keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
