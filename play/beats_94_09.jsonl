@@ -454,3 +454,6 @@
 {"n":454,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at High line. Nobody past the east slip. We hit in 6 steps. Arc on the left lane, open."}
 {"n":455,"kind":"place","name":"High line east slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line east slip. Bess keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
 {"n":456,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east slip. arc left open. 8 steps. The radio coil stays for the hit."}
+{"n":457,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Ward gate. Nobody past the north slip. We hit in 2 steps. Arc on the left lane, open."}
+{"n":458,"kind":"place","name":"Ward gate north slip","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate north slip. Matt keeps the plywood for the hit. 3 steps, arc on the left lane, open."}
+{"n":459,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north slip. arc left open. 4 steps. The plywood stays for the hit."}
