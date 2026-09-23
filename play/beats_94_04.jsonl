@@ -183,3 +183,6 @@
 {"n":183,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at South stair. Nobody past the south roof. We hit in 6 steps. Arc on the left lane, open."}
 {"n":184,"kind":"place","name":"South stair south roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"South stair south roof. Ivo keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
 {"n":185,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south roof. arc left open. 8 steps. The lamp stays for the hit."}
+{"n":186,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at South stair. Nobody past the south roof. We hit in 2 steps. Arc on the left lane, open."}
+{"n":187,"kind":"place","name":"South stair south roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair south roof. Bess keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
+{"n":188,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south roof. arc left open. 4 steps. The lamp stays for the hit."}
