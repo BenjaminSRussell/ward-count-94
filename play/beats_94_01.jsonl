@@ -576,3 +576,6 @@
 {"n":576,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at Kessler alley. Nobody past the north roof. We hit in 3 steps. Arc on the left lane, open."}
 {"n":577,"kind":"place","name":"Kessler alley north roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley north roof. Nia keeps the hydrant for the hit. 4 steps, arc on the left lane, open."}
 {"n":578,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north roof. arc left open. 5 steps. The hydrant stays for the hit."}
+{"n":579,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Kessler alley. Nobody past the north roof. We hit in 6 steps. Arc on the left lane, open."}
+{"n":580,"kind":"place","name":"Kessler alley north roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley north roof. Ivo keeps the hydrant for the hit. 7 steps, arc on the left lane, open."}
+{"n":581,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north roof. arc left open. 8 steps. The hydrant stays for the hit."}
