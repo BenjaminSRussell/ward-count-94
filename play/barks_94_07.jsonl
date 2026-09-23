@@ -919,3 +919,6 @@
 {"n":919,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard east slip. Bess keeps the barrel for the hit. 4 steps, arc on the left lane, open."}
 {"n":920,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east slip. arc left open. 5 steps. The barrel stays for the hit."}
 {"n":921,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Drydock. Nobody past the east slip. We hit in 6 steps. Arc on the left lane, open."}
+{"n":922,"kind":"place","name":"Drydock east slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock east slip. Matt keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
+{"n":923,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east slip. arc left open. 8 steps. The barrel stays for the hit."}
+{"n":924,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Drydock. Nobody past the east slip. We hit in 2 steps. Arc on the left lane, open."}
