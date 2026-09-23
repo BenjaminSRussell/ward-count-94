@@ -530,3 +530,6 @@
 {"n":530,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Mast yard. Nobody past the east slip. We hit in 6 steps. Arc on the left lane, open."}
 {"n":531,"kind":"place","name":"Mast yard east slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard east slip. Bess keeps the rope for the hit. 7 steps, arc on the left lane, open."}
 {"n":532,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east slip. arc left open. 8 steps. The rope stays for the hit."}
+{"n":533,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Last Light. Nobody past the east slip. We hit in 2 steps. Arc on the left lane, open."}
+{"n":534,"kind":"place","name":"Last Light east slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light east slip. Matt keeps the rope for the hit. 3 steps, arc on the left lane, open."}
+{"n":535,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east slip. arc left open. 4 steps. The rope stays for the hit."}
