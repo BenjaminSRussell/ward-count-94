@@ -951,3 +951,6 @@
 {"n":951,"kind":"place","name":"Stockyard fence north roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence north roof. Bess keeps the drum for the hit. 6 steps, arc on the left lane, open."}
 {"n":952,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north roof. arc left open. 7 steps. The drum stays for the hit."}
 {"n":953,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Mall court. Nobody past the north roof. We hit in 8 steps. Arc on the left lane, open."}
+{"n":954,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mall court north roof. Matt keeps the drum for the hit. 2 steps, arc on the left lane, open."}
+{"n":955,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, north roof. arc left open. 3 steps. The drum stays for the hit."}
+{"n":956,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Mall court. Nobody past the north roof. We hit in 4 steps. Arc on the left lane, open."}
