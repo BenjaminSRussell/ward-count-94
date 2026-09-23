@@ -500,3 +500,6 @@
 {"n":500,"kind":"place","name":"the pier east roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier east roof. Ivo keeps the rope for the hit. 5 steps, arc on the left lane, open."}
 {"n":501,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east roof. arc left open. 6 steps. The rope stays for the hit."}
 {"n":502,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at the pier. Nobody past the east roof. We hit in 7 steps. Arc on the left lane, open."}
+{"n":503,"kind":"place","name":"the pier east roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier east roof. Bess keeps the rope for the hit. 8 steps, arc on the left lane, open."}
+{"n":504,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east roof. arc left open. 2 steps. The rope stays for the hit."}
+{"n":505,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Clinic roof. Nobody past the east roof. We hit in 3 steps. Arc on the left lane, open."}
