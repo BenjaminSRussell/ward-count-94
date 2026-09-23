@@ -779,3 +779,6 @@
 {"n":779,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south roof. arc left open. 7 steps. The awning stays for the hit."}
 {"n":780,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at the Lot. Nobody past the south roof. We hit in 8 steps. Arc on the left lane, open."}
 {"n":781,"kind":"place","name":"the Lot south roof","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Lot south roof. Nia keeps the awning for the hit. 2 steps, arc on the left lane, open."}
+{"n":782,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south roof. arc left open. 3 steps. The awning stays for the hit."}
+{"n":783,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at the Lot. Nobody past the south roof. We hit in 4 steps. Arc on the left lane, open."}
+{"n":784,"kind":"place","name":"the Lot south roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot south roof. Ivo keeps the awning for the hit. 5 steps, arc on the left lane, open."}
