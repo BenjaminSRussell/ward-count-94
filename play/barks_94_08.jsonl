@@ -423,3 +423,6 @@
 {"n":423,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard east slip. Bess keeps the rebar for the hit. 4 steps, arc on the left lane, open."}
 {"n":424,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east slip. arc left open. 5 steps. The rebar stays for the hit."}
 {"n":425,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Drydock. Nobody past the east slip. We hit in 6 steps. Arc on the left lane, open."}
+{"n":426,"kind":"place","name":"Drydock east slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock east slip. Matt keeps the rebar for the hit. 7 steps, arc on the left lane, open."}
+{"n":427,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east slip. arc left open. 8 steps. The rebar stays for the hit."}
+{"n":428,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at Drydock. Nobody past the east slip. We hit in 2 steps. Arc on the left lane, open."}
