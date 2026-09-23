@@ -463,3 +463,6 @@
 {"n":463,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Ward gate. Nobody past the north slip. We hit in 8 steps. Arc on the left lane, open."}
 {"n":464,"kind":"place","name":"Ward gate north slip","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Ward gate north slip. Ivo keeps the plywood for the hit. 2 steps, arc on the left lane, open."}
 {"n":465,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north slip. arc left open. 3 steps. The plywood stays for the hit."}
+{"n":466,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Ward gate. Nobody past the north slip. We hit in 4 steps. Arc on the left lane, open."}
+{"n":467,"kind":"place","name":"Ward gate north slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate north slip. Bess keeps the plywood for the hit. 5 steps, arc on the left lane, open."}
+{"n":468,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north slip. arc left open. 6 steps. The plywood stays for the hit."}
