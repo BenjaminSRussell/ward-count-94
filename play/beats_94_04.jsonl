@@ -165,3 +165,6 @@
 {"n":165,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Last Light. Nobody past the south roof. We hit in 2 steps. Arc on the left lane, open."}
 {"n":166,"kind":"place","name":"Last Light south roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light south roof. Matt keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
 {"n":167,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south roof. arc left open. 4 steps. The lamp stays for the hit."}
+{"n":168,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Last Light. Nobody past the south roof. We hit in 5 steps. Arc on the left lane, open."}
+{"n":169,"kind":"place","name":"Last Light south roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light south roof. Nia keeps the lamp for the hit. 6 steps, arc on the left lane, open."}
+{"n":170,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, south roof. arc left open. 7 steps. The lamp stays for the hit."}
