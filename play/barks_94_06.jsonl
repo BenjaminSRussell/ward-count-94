@@ -515,3 +515,6 @@
 {"n":515,"kind":"place","name":"Mast yard west slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard west slip. Bess keeps the rope for the hit. 7 steps, arc on the left lane, open."}
 {"n":516,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west slip. arc left open. 8 steps. The rope stays for the hit."}
 {"n":517,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Last Light. Nobody past the west slip. We hit in 2 steps. Arc on the left lane, open."}
+{"n":518,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light west slip. Matt keeps the rope for the hit. 3 steps, arc on the left lane, open."}
+{"n":519,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west slip. arc left open. 4 steps. The rope stays for the hit."}
+{"n":520,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Last Light. Nobody past the west slip. We hit in 5 steps. Arc on the left lane, open."}
