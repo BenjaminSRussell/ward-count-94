@@ -564,3 +564,6 @@
 {"n":564,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north slip. arc left open. 4 steps. The plywood stays for the hit."}
 {"n":565,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at the pier. Nobody past the north slip. We hit in 5 steps. Arc on the left lane, open."}
 {"n":566,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the pier north slip. Matt keeps the plywood for the hit. 6 steps, arc on the left lane, open."}
+{"n":567,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, north slip. arc left open. 7 steps. The plywood stays for the hit."}
+{"n":568,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at the pier. Nobody past the north slip. We hit in 8 steps. Arc on the left lane, open."}
+{"n":569,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the pier north slip. Nia keeps the plywood for the hit. 2 steps, arc on the left lane, open."}
