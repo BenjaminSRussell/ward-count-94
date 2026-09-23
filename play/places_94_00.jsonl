@@ -879,3 +879,6 @@
 {"n":879,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east roof. arc left open. 6 steps. The awning stays for the hit."}
 {"n":880,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at High line. Nobody past the east roof. We hit in 7 steps. Arc on the left lane, open."}
 {"n":881,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"High line east roof. Nia keeps the awning for the hit. 8 steps, arc on the left lane, open."}
+{"n":882,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east roof. arc left open. 2 steps. The awning stays for the hit."}
+{"n":883,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at High line. Nobody past the east roof. We hit in 3 steps. Arc on the left lane, open."}
+{"n":884,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line east roof. Ivo keeps the awning for the hit. 4 steps, arc on the left lane, open."}
