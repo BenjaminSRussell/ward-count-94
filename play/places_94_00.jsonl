@@ -249,3 +249,6 @@
 {"n":249,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east roof. arc left open. 6 steps. The rebar stays for the hit."}
 {"n":250,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at the Lot. Nobody past the east roof. We hit in 7 steps. Arc on the left lane, open."}
 {"n":251,"kind":"place","name":"the Lot east roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot east roof. Bess keeps the rebar for the hit. 8 steps, arc on the left lane, open."}
+{"n":252,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east roof. arc left open. 2 steps. The rebar stays for the hit."}
+{"n":253,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Stockyard fence. Nobody past the east roof. We hit in 3 steps. Arc on the left lane, open."}
+{"n":254,"kind":"place","name":"Stockyard fence east roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence east roof. Matt keeps the rebar for the hit. 4 steps, arc on the left lane, open."}
