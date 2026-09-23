@@ -646,3 +646,6 @@
 {"n":646,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north roof. arc left open. 2 steps. The shutter stays for the hit."}
 {"n":647,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Mast yard. Nobody past the north roof. We hit in 3 steps. Arc on the left lane, open."}
 {"n":648,"kind":"place","name":"Mast yard north roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard north roof. Ivo keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
+{"n":649,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north roof. arc left open. 5 steps. The shutter stays for the hit."}
+{"n":650,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Mast yard. Nobody past the north roof. We hit in 6 steps. Arc on the left lane, open."}
+{"n":651,"kind":"place","name":"Mast yard north roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard north roof. Bess keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
