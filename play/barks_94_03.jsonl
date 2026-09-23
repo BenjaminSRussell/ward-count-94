@@ -299,3 +299,6 @@
 {"n":299,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court north roof. Bess keeps the radio coil for the hit. 4 steps, arc on the left lane, open."}
 {"n":300,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north roof. arc left open. 5 steps. The radio coil stays for the hit."}
 {"n":301,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at the Underpass. Nobody past the north roof. We hit in 6 steps. Arc on the left lane, open."}
+{"n":302,"kind":"place","name":"the Underpass north roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass north roof. Matt keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
+{"n":303,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north roof. arc left open. 8 steps. The radio coil stays for the hit."}
+{"n":304,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at the Underpass. Nobody past the north roof. We hit in 2 steps. Arc on the left lane, open."}
