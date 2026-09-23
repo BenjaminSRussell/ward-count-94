@@ -163,3 +163,6 @@
 {"n":163,"kind":"place","name":"South stair east roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair east roof. Bess keeps the badge door for the hit. 3 steps, arc on the left lane, open."}
 {"n":164,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east roof. arc left open. 4 steps. The badge door stays for the hit."}
 {"n":165,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at the pier. Nobody past the east roof. We hit in 5 steps. Arc on the left lane, open."}
+{"n":166,"kind":"place","name":"the pier east roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the pier east roof. Matt keeps the badge door for the hit. 6 steps, arc on the left lane, open."}
+{"n":167,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east roof. arc left open. 7 steps. The badge door stays for the hit."}
+{"n":168,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at the pier. Nobody past the east roof. We hit in 8 steps. Arc on the left lane, open."}
