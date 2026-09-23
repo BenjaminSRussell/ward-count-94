@@ -323,3 +323,6 @@
 {"n":323,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, east roof. arc left open. 2 steps. The radio coil stays for the hit."}
 {"n":324,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at South stair. Nobody past the east roof. We hit in 3 steps. Arc on the left lane, open."}
 {"n":325,"kind":"place","name":"South stair east roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"South stair east roof. Nia keeps the radio coil for the hit. 4 steps, arc on the left lane, open."}
+{"n":326,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east roof. arc left open. 5 steps. The radio coil stays for the hit."}
+{"n":327,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at South stair. Nobody past the east roof. We hit in 6 steps. Arc on the left lane, open."}
+{"n":328,"kind":"place","name":"South stair east roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"South stair east roof. Ivo keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
