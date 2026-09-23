@@ -318,3 +318,6 @@
 {"n":318,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north roof. arc left open. 2 steps. The radio coil stays for the hit."}
 {"n":319,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Mast yard. Nobody past the north roof. We hit in 3 steps. Arc on the left lane, open."}
 {"n":320,"kind":"place","name":"Mast yard north roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard north roof. Ivo keeps the radio coil for the hit. 4 steps, arc on the left lane, open."}
+{"n":321,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north roof. arc left open. 5 steps. The radio coil stays for the hit."}
+{"n":322,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Mast yard. Nobody past the north roof. We hit in 6 steps. Arc on the left lane, open."}
+{"n":323,"kind":"place","name":"Mast yard north roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard north roof. Bess keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
