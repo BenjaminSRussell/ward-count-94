@@ -332,3 +332,6 @@
 {"n":332,"kind":"place","name":"Last Light north roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Last Light north roof. Ivo keeps the radio coil for the hit. 2 steps, arc on the left lane, open."}
 {"n":333,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north roof. arc left open. 3 steps. The radio coil stays for the hit."}
 {"n":334,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the radio coil at Last Light. Nobody past the north roof. We hit in 4 steps. Arc on the left lane, open."}
+{"n":335,"kind":"place","name":"Last Light north roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Last Light north roof. Bess keeps the radio coil for the hit. 5 steps, arc on the left lane, open."}
+{"n":336,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north roof. arc left open. 6 steps. The radio coil stays for the hit."}
+{"n":337,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at South stair. Nobody past the north roof. We hit in 7 steps. Arc on the left lane, open."}
