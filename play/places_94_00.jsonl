@@ -723,3 +723,6 @@
 {"n":723,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east roof. arc left open. 4 steps. The awning stays for the hit."}
 {"n":724,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Ward gate. Nobody past the east roof. We hit in 5 steps. Arc on the left lane, open."}
 {"n":725,"kind":"place","name":"Ward gate east roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Ward gate east roof. Nia keeps the awning for the hit. 6 steps, arc on the left lane, open."}
+{"n":726,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, east roof. arc left open. 7 steps. The awning stays for the hit."}
+{"n":727,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the awning at Ward gate. Nobody past the east roof. We hit in 8 steps. Arc on the left lane, open."}
+{"n":728,"kind":"place","name":"Ward gate east roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Ward gate east roof. Ivo keeps the awning for the hit. 2 steps, arc on the left lane, open."}
