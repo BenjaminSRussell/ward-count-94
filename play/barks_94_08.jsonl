@@ -342,3 +342,6 @@
 {"n":342,"kind":"place","name":"the Underpass east slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass east slip. Matt keeps the rebar for the hit. 7 steps, arc on the left lane, open."}
 {"n":343,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east slip. arc left open. 8 steps. The rebar stays for the hit."}
 {"n":344,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at the Underpass. Nobody past the east slip. We hit in 2 steps. Arc on the left lane, open."}
+{"n":345,"kind":"place","name":"the Underpass east slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass east slip. Nia keeps the rebar for the hit. 3 steps, arc on the left lane, open."}
+{"n":346,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east slip. arc left open. 4 steps. The rebar stays for the hit."}
+{"n":347,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at the Underpass. Nobody past the east slip. We hit in 5 steps. Arc on the left lane, open."}
