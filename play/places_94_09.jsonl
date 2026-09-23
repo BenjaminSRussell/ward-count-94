@@ -732,3 +732,6 @@
 {"n":732,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north slip. arc left open. 4 steps. The hydrant stays for the hit."}
 {"n":733,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at the pier. Nobody past the north slip. We hit in 5 steps. Arc on the left lane, open."}
 {"n":734,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the pier north slip. Matt keeps the hydrant for the hit. 6 steps, arc on the left lane, open."}
+{"n":735,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, north slip. arc left open. 7 steps. The hydrant stays for the hit."}
+{"n":736,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the hydrant at the pier. Nobody past the north slip. We hit in 8 steps. Arc on the left lane, open."}
+{"n":737,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the pier north slip. Nia keeps the hydrant for the hit. 2 steps, arc on the left lane, open."}
