@@ -577,3 +577,6 @@
 {"n":577,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, east slip. arc left open. 4 steps. The rope stays for the hit."}
 {"n":578,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Clinic roof. Nobody past the east slip. We hit in 5 steps. Arc on the left lane, open."}
 {"n":579,"kind":"place","name":"Clinic roof east slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Clinic roof east slip. Bess keeps the rope for the hit. 6 steps, arc on the left lane, open."}
+{"n":580,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east slip. arc left open. 7 steps. The rope stays for the hit."}
+{"n":581,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Switchyard. Nobody past the east slip. We hit in 8 steps. Arc on the left lane, open."}
+{"n":582,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard east slip. Matt keeps the rope for the hit. 2 steps, arc on the left lane, open."}
