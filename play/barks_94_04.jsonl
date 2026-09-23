@@ -160,3 +160,6 @@
 {"n":160,"kind":"place","name":"Mast yard south roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard south roof. Ivo keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
 {"n":161,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, south roof. arc left open. 5 steps. The lamp stays for the hit."}
 {"n":162,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Mast yard. Nobody past the south roof. We hit in 6 steps. Arc on the left lane, open."}
+{"n":163,"kind":"place","name":"Mast yard south roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard south roof. Bess keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
+{"n":164,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south roof. arc left open. 8 steps. The lamp stays for the hit."}
+{"n":165,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Last Light. Nobody past the south roof. We hit in 2 steps. Arc on the left lane, open."}
