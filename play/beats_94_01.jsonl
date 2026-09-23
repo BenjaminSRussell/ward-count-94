@@ -492,3 +492,6 @@
 {"n":492,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at South stair. Nobody past the north roof. We hit in 3 steps. Arc on the left lane, open."}
 {"n":493,"kind":"place","name":"South stair north roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"South stair north roof. Nia keeps the plywood for the hit. 4 steps, arc on the left lane, open."}
 {"n":494,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north roof. arc left open. 5 steps. The plywood stays for the hit."}
+{"n":495,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at South stair. Nobody past the north roof. We hit in 6 steps. Arc on the left lane, open."}
+{"n":496,"kind":"place","name":"South stair north roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair north roof. Ivo keeps the plywood for the hit. 7 steps, arc on the left lane, open."}
+{"n":497,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north roof. arc left open. 8 steps. The plywood stays for the hit."}
