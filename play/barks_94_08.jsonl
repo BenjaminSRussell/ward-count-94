@@ -486,3 +486,6 @@
 {"n":486,"kind":"place","name":"Stockyard fence east slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence east slip. Matt keeps the rope for the hit. 4 steps, arc on the left lane, open."}
 {"n":487,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east slip. arc left open. 5 steps. The rope stays for the hit."}
 {"n":488,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Stockyard fence. Nobody past the east slip. We hit in 6 steps. Arc on the left lane, open."}
+{"n":489,"kind":"place","name":"Stockyard fence east slip","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence east slip. Nia keeps the rope for the hit. 7 steps, arc on the left lane, open."}
+{"n":490,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east slip. arc left open. 8 steps. The rope stays for the hit."}
+{"n":491,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at Stockyard fence. Nobody past the east slip. We hit in 2 steps. Arc on the left lane, open."}
