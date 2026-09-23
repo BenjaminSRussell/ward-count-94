@@ -311,3 +311,6 @@
 {"n":311,"kind":"place","name":"Kessler alley east slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley east slip. Bess keeps the radio coil for the hit. 3 steps, arc on the left lane, open."}
 {"n":312,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east slip. arc left open. 4 steps. The radio coil stays for the hit."}
 {"n":313,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the radio coil at the Lot. Nobody past the east slip. We hit in 5 steps. Arc on the left lane, open."}
+{"n":314,"kind":"place","name":"the Lot east slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot east slip. Matt keeps the radio coil for the hit. 6 steps, arc on the left lane, open."}
+{"n":315,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east slip. arc left open. 7 steps. The radio coil stays for the hit."}
+{"n":316,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at the Lot. Nobody past the east slip. We hit in 8 steps. Arc on the left lane, open."}
