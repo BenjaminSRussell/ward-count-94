@@ -356,3 +356,6 @@
 {"n":356,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Last Light west slip. Ivo keeps the rebar for the hit. 2 steps, arc on the left lane, open."}
 {"n":357,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, west slip. arc left open. 3 steps. The rebar stays for the hit."}
 {"n":358,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at Last Light. Nobody past the west slip. We hit in 4 steps. Arc on the left lane, open."}
+{"n":359,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Last Light west slip. Bess keeps the rebar for the hit. 5 steps, arc on the left lane, open."}
+{"n":360,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, west slip. arc left open. 6 steps. The rebar stays for the hit."}
+{"n":361,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at South stair. Nobody past the west slip. We hit in 7 steps. Arc on the left lane, open."}
