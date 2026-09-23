@@ -869,3 +869,6 @@
 {"n":869,"kind":"place","name":"Clinic roof south roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Clinic roof south roof. Nia keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
 {"n":870,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south roof. arc left open. 8 steps. The barrel stays for the hit."}
 {"n":871,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Clinic roof. Nobody past the south roof. We hit in 2 steps. Arc on the left lane, open."}
+{"n":872,"kind":"place","name":"Clinic roof south roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof south roof. Ivo keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
+{"n":873,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south roof. arc left open. 4 steps. The barrel stays for the hit."}
+{"n":874,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Clinic roof. Nobody past the south roof. We hit in 5 steps. Arc on the left lane, open."}
