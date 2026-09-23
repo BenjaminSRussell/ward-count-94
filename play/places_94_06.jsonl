@@ -723,3 +723,6 @@
 {"n":723,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west slip. arc left open. 5 steps. The shutter stays for the hit."}
 {"n":724,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at Clinic roof. Nobody past the west slip. We hit in 6 steps. Arc on the left lane, open."}
 {"n":725,"kind":"place","name":"Clinic roof west slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Clinic roof west slip. Nia keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
+{"n":726,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west slip. arc left open. 8 steps. The shutter stays for the hit."}
+{"n":727,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Clinic roof. Nobody past the west slip. We hit in 2 steps. Arc on the left lane, open."}
+{"n":728,"kind":"place","name":"Clinic roof west slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Clinic roof west slip. Ivo keeps the shutter for the hit. 3 steps, arc on the left lane, open."}
