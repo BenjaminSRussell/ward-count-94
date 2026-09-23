@@ -202,3 +202,6 @@
 {"n":202,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north roof. arc left open. 6 steps. The lamp stays for the hit."}
 {"n":203,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Switchyard. Nobody past the north roof. We hit in 7 steps. Arc on the left lane, open."}
 {"n":204,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard north roof. Ivo keeps the lamp for the hit. 8 steps, arc on the left lane, open."}
+{"n":205,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north roof. arc left open. 2 steps. The lamp stays for the hit."}
+{"n":206,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the lamp at Switchyard. Nobody past the north roof. We hit in 3 steps. Arc on the left lane, open."}
+{"n":207,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard north roof. Bess keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
