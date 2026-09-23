@@ -664,3 +664,6 @@
 {"n":664,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the shutter at the pier. Nobody past the east roof. We hit in 8 steps. Arc on the left lane, open."}
 {"n":665,"kind":"place","name":"the pier east roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the pier east roof. Nia keeps the shutter for the hit. 2 steps, arc on the left lane, open."}
 {"n":666,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, east roof. arc left open. 3 steps. The shutter stays for the hit."}
+{"n":667,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at the pier. Nobody past the east roof. We hit in 4 steps. Arc on the left lane, open."}
+{"n":668,"kind":"place","name":"the pier east roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier east roof. Ivo keeps the shutter for the hit. 5 steps, arc on the left lane, open."}
+{"n":669,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east roof. arc left open. 6 steps. The shutter stays for the hit."}
