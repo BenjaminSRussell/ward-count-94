@@ -753,3 +753,6 @@
 {"n":753,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south roof. arc left open. 3 steps. The barrel stays for the hit."}
 {"n":754,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Ward gate. Nobody past the south roof. We hit in 4 steps. Arc on the left lane, open."}
 {"n":755,"kind":"place","name":"Ward gate south roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Ward gate south roof. Bess keeps the barrel for the hit. 5 steps, arc on the left lane, open."}
+{"n":756,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south roof. arc left open. 6 steps. The barrel stays for the hit."}
+{"n":757,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Kessler alley. Nobody past the south roof. We hit in 7 steps. Arc on the left lane, open."}
+{"n":758,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Kessler alley south roof. Matt keeps the barrel for the hit. 8 steps, arc on the left lane, open."}
