@@ -626,3 +626,6 @@
 {"n":626,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east slip. arc left open. 5 steps. The hydrant stays for the hit."}
 {"n":627,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Kessler alley. Nobody past the east slip. We hit in 6 steps. Arc on the left lane, open."}
 {"n":628,"kind":"place","name":"Kessler alley east slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley east slip. Ivo keeps the hydrant for the hit. 7 steps, arc on the left lane, open."}
+{"n":629,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east slip. arc left open. 8 steps. The hydrant stays for the hit."}
+{"n":630,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at Kessler alley. Nobody past the east slip. We hit in 2 steps. Arc on the left lane, open."}
+{"n":631,"kind":"place","name":"Kessler alley east slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley east slip. Bess keeps the hydrant for the hit. 3 steps, arc on the left lane, open."}
