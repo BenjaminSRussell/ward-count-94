@@ -718,3 +718,6 @@
 {"n":718,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west slip. arc left open. 8 steps. The hydrant stays for the hit."}
 {"n":719,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Clinic roof. Nobody past the west slip. We hit in 2 steps. Arc on the left lane, open."}
 {"n":720,"kind":"place","name":"Clinic roof west slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Clinic roof west slip. Ivo keeps the hydrant for the hit. 3 steps, arc on the left lane, open."}
+{"n":721,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west slip. arc left open. 4 steps. The hydrant stays for the hit."}
+{"n":722,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at Clinic roof. Nobody past the west slip. We hit in 5 steps. Arc on the left lane, open."}
+{"n":723,"kind":"place","name":"Clinic roof west slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Clinic roof west slip. Bess keeps the hydrant for the hit. 6 steps, arc on the left lane, open."}
