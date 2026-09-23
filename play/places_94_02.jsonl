@@ -622,3 +622,6 @@
 {"n":622,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, north roof. arc left open. 6 steps. The shutter stays for the hit."}
 {"n":623,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Mall court. Nobody past the north roof. We hit in 7 steps. Arc on the left lane, open."}
 {"n":624,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mall court north roof. Ivo keeps the shutter for the hit. 8 steps, arc on the left lane, open."}
+{"n":625,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north roof. arc left open. 2 steps. The shutter stays for the hit."}
+{"n":626,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Mall court. Nobody past the north roof. We hit in 3 steps. Arc on the left lane, open."}
+{"n":627,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court north roof. Bess keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
