@@ -212,3 +212,6 @@
 {"n":212,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Clinic roof. Nobody past the south roof. We hit in 6 steps. Arc on the left lane, open."}
 {"n":213,"kind":"place","name":"Clinic roof south roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof south roof. Nia keeps the badge door for the hit. 7 steps, arc on the left lane, open."}
 {"n":214,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south roof. arc left open. 8 steps. The badge door stays for the hit."}
+{"n":215,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the badge door at Clinic roof. Nobody past the south roof. We hit in 2 steps. Arc on the left lane, open."}
+{"n":216,"kind":"place","name":"Clinic roof south roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof south roof. Ivo keeps the badge door for the hit. 3 steps, arc on the left lane, open."}
+{"n":217,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south roof. arc left open. 4 steps. The badge door stays for the hit."}
