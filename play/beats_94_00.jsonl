@@ -805,3 +805,6 @@
 {"n":805,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at Last Light. Nobody past the east roof. We hit in 2 steps. Arc on the left lane, open."}
 {"n":806,"kind":"place","name":"Last Light east roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light east roof. Matt keeps the awning for the hit. 3 steps, arc on the left lane, open."}
 {"n":807,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east roof. arc left open. 4 steps. The awning stays for the hit."}
+{"n":808,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at Last Light. Nobody past the east roof. We hit in 5 steps. Arc on the left lane, open."}
+{"n":809,"kind":"place","name":"Last Light east roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Last Light east roof. Nia keeps the awning for the hit. 6 steps, arc on the left lane, open."}
+{"n":810,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, east roof. arc left open. 7 steps. The awning stays for the hit."}
