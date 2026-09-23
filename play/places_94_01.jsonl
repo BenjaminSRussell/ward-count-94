@@ -806,3 +806,6 @@
 {"n":806,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north roof. arc left open. 2 steps. The barrel stays for the hit."}
 {"n":807,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Mast yard. Nobody past the north roof. We hit in 3 steps. Arc on the left lane, open."}
 {"n":808,"kind":"place","name":"Mast yard north roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard north roof. Ivo keeps the barrel for the hit. 4 steps, arc on the left lane, open."}
+{"n":809,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north roof. arc left open. 5 steps. The barrel stays for the hit."}
+{"n":810,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Mast yard. Nobody past the north roof. We hit in 6 steps. Arc on the left lane, open."}
+{"n":811,"kind":"place","name":"Mast yard north roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard north roof. Bess keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
