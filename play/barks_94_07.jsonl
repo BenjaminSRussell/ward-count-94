@@ -460,3 +460,6 @@
 {"n":460,"kind":"place","name":"Kessler alley east slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley east slip. Ivo keeps the plywood for the hit. 7 steps, arc on the left lane, open."}
 {"n":461,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east slip. arc left open. 8 steps. The plywood stays for the hit."}
 {"n":462,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at Kessler alley. Nobody past the east slip. We hit in 2 steps. Arc on the left lane, open."}
+{"n":463,"kind":"place","name":"Kessler alley east slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley east slip. Bess keeps the plywood for the hit. 3 steps, arc on the left lane, open."}
+{"n":464,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east slip. arc left open. 4 steps. The plywood stays for the hit."}
+{"n":465,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at the Lot. Nobody past the east slip. We hit in 5 steps. Arc on the left lane, open."}
