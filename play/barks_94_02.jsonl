@@ -729,3 +729,6 @@
 {"n":729,"kind":"place","name":"High line north roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"High line north roof. Nia keeps the shutter for the hit. 8 steps, arc on the left lane, open."}
 {"n":730,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, north roof. arc left open. 2 steps. The shutter stays for the hit."}
 {"n":731,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at High line. Nobody past the north roof. We hit in 3 steps. Arc on the left lane, open."}
+{"n":732,"kind":"place","name":"High line north roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line north roof. Ivo keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
+{"n":733,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north roof. arc left open. 5 steps. The shutter stays for the hit."}
+{"n":734,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at High line. Nobody past the north roof. We hit in 6 steps. Arc on the left lane, open."}
