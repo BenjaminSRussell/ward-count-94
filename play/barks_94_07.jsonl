@@ -31,3 +31,6 @@
 {"n":31,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Last Light west slip. Bess keeps the drum for the hit. 5 steps, arc on the left lane, open."}
 {"n":32,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, west slip. arc left open. 6 steps. The drum stays for the hit."}
 {"n":33,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at South stair. Nobody past the west slip. We hit in 7 steps. Arc on the left lane, open."}
+{"n":34,"kind":"place","name":"South stair west slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"South stair west slip. Matt keeps the drum for the hit. 8 steps, arc on the left lane, open."}
+{"n":35,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, west slip. arc left open. 2 steps. The drum stays for the hit."}
+{"n":36,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at South stair. Nobody past the west slip. We hit in 3 steps. Arc on the left lane, open."}
