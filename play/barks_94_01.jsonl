@@ -700,3 +700,6 @@
 {"n":700,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard north roof. Ivo keeps the hydrant for the hit. 8 steps, arc on the left lane, open."}
 {"n":701,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north roof. arc left open. 2 steps. The hydrant stays for the hit."}
 {"n":702,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at Switchyard. Nobody past the north roof. We hit in 3 steps. Arc on the left lane, open."}
+{"n":703,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard north roof. Bess keeps the hydrant for the hit. 4 steps, arc on the left lane, open."}
+{"n":704,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north roof. arc left open. 5 steps. The hydrant stays for the hit."}
+{"n":705,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at Drydock. Nobody past the north roof. We hit in 6 steps. Arc on the left lane, open."}
