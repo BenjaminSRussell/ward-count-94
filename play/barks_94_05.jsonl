@@ -459,3 +459,6 @@
 {"n":459,"kind":"place","name":"the Lot west slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot west slip. Bess keeps the plywood for the hit. 8 steps, arc on the left lane, open."}
 {"n":460,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west slip. arc left open. 2 steps. The plywood stays for the hit."}
 {"n":461,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Stockyard fence. Nobody past the west slip. We hit in 3 steps. Arc on the left lane, open."}
+{"n":462,"kind":"place","name":"Stockyard fence west slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence west slip. Matt keeps the plywood for the hit. 4 steps, arc on the left lane, open."}
+{"n":463,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west slip. arc left open. 5 steps. The plywood stays for the hit."}
+{"n":464,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Stockyard fence. Nobody past the west slip. We hit in 6 steps. Arc on the left lane, open."}
