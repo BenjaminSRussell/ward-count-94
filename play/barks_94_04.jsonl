@@ -988,3 +988,6 @@
 {"n":988,"kind":"place","name":"the Underpass south roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Underpass south roof. Ivo keeps the drum for the hit. 6 steps, arc on the left lane, open."}
 {"n":989,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south roof. arc left open. 7 steps. The drum stays for the hit."}
 {"n":990,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at the Underpass. Nobody past the south roof. We hit in 8 steps. Arc on the left lane, open."}
+{"n":991,"kind":"place","name":"the Underpass south roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Underpass south roof. Bess keeps the drum for the hit. 2 steps, arc on the left lane, open."}
+{"n":992,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south roof. arc left open. 3 steps. The drum stays for the hit."}
+{"n":993,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Mast yard. Nobody past the south roof. We hit in 4 steps. Arc on the left lane, open."}
