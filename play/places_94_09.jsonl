@@ -840,3 +840,6 @@
 {"n":840,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north slip. arc left open. 7 steps. The barrel stays for the hit."}
 {"n":841,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Mall court. Nobody past the north slip. We hit in 8 steps. Arc on the left lane, open."}
 {"n":842,"kind":"place","name":"Mall court north slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mall court north slip. Matt keeps the barrel for the hit. 2 steps, arc on the left lane, open."}
+{"n":843,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, north slip. arc left open. 3 steps. The barrel stays for the hit."}
+{"n":844,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Mall court. Nobody past the north slip. We hit in 4 steps. Arc on the left lane, open."}
+{"n":845,"kind":"place","name":"Mall court north slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mall court north slip. Nia keeps the barrel for the hit. 5 steps, arc on the left lane, open."}
