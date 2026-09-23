@@ -514,3 +514,6 @@
 {"n":514,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north roof. arc left open. 3 steps. The rope stays for the hit."}
 {"n":515,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at the pier. Nobody past the north roof. We hit in 4 steps. Arc on the left lane, open."}
 {"n":516,"kind":"place","name":"the pier north roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier north roof. Ivo keeps the rope for the hit. 5 steps, arc on the left lane, open."}
+{"n":517,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north roof. arc left open. 6 steps. The rope stays for the hit."}
+{"n":518,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at the pier. Nobody past the north roof. We hit in 7 steps. Arc on the left lane, open."}
+{"n":519,"kind":"place","name":"the pier north roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier north roof. Bess keeps the rope for the hit. 8 steps, arc on the left lane, open."}
