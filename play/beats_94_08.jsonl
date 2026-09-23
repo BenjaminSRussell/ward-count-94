@@ -128,3 +128,6 @@
 {"n":128,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Kessler alley. Nobody past the east slip. We hit in 3 steps. Arc on the left lane, open."}
 {"n":129,"kind":"place","name":"Kessler alley east slip","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley east slip. Nia keeps the lamp for the hit. 4 steps, arc on the left lane, open."}
 {"n":130,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, east slip. arc left open. 5 steps. The lamp stays for the hit."}
+{"n":131,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the lamp at Kessler alley. Nobody past the east slip. We hit in 6 steps. Arc on the left lane, open."}
+{"n":132,"kind":"place","name":"Kessler alley east slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley east slip. Ivo keeps the lamp for the hit. 7 steps, arc on the left lane, open."}
+{"n":133,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east slip. arc left open. 8 steps. The lamp stays for the hit."}
