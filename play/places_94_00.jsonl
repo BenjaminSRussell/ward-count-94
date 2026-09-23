@@ -132,3 +132,6 @@
 {"n":132,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east roof. arc left open. 8 steps. The lamp stays for the hit."}
 {"n":133,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the lamp at Last Light. Nobody past the east roof. We hit in 2 steps. Arc on the left lane, open."}
 {"n":134,"kind":"place","name":"Last Light east roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light east roof. Matt keeps the lamp for the hit. 3 steps, arc on the left lane, open."}
+{"n":135,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east roof. arc left open. 4 steps. The lamp stays for the hit."}
+{"n":136,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the lamp at Last Light. Nobody past the east roof. We hit in 5 steps. Arc on the left lane, open."}
+{"n":137,"kind":"place","name":"Last Light east roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Last Light east roof. Nia keeps the lamp for the hit. 6 steps, arc on the left lane, open."}
