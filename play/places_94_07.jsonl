@@ -89,3 +89,6 @@
 {"n":89,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west slip. arc left open. 7 steps. The drum stays for the hit."}
 {"n":90,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Drydock. Nobody past the west slip. We hit in 8 steps. Arc on the left lane, open."}
 {"n":91,"kind":"place","name":"Drydock west slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock west slip. Bess keeps the drum for the hit. 2 steps, arc on the left lane, open."}
+{"n":92,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west slip. arc left open. 3 steps. The drum stays for the hit."}
+{"n":93,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at High line. Nobody past the west slip. We hit in 4 steps. Arc on the left lane, open."}
+{"n":94,"kind":"place","name":"High line west slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line west slip. Matt keeps the drum for the hit. 5 steps, arc on the left lane, open."}
