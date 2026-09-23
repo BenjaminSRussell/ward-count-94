@@ -423,3 +423,6 @@
 {"n":423,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south roof. arc left open. 2 steps. The plywood stays for the hit."}
 {"n":424,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Kessler alley. Nobody past the south roof. We hit in 3 steps. Arc on the left lane, open."}
 {"n":425,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley south roof. Nia keeps the plywood for the hit. 4 steps, arc on the left lane, open."}
+{"n":426,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south roof. arc left open. 5 steps. The plywood stays for the hit."}
+{"n":427,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Kessler alley. Nobody past the south roof. We hit in 6 steps. Arc on the left lane, open."}
+{"n":428,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley south roof. Ivo keeps the plywood for the hit. 7 steps, arc on the left lane, open."}
