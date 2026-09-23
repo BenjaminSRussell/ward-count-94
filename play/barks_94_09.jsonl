@@ -485,3 +485,6 @@
 {"n":485,"kind":"place","name":"the Lot north slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Lot north slip. Nia keeps the plywood for the hit. 2 steps, arc on the left lane, open."}
 {"n":486,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north slip. arc left open. 3 steps. The plywood stays for the hit."}
 {"n":487,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at the Lot. Nobody past the north slip. We hit in 4 steps. Arc on the left lane, open."}
+{"n":488,"kind":"place","name":"the Lot north slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot north slip. Ivo keeps the plywood for the hit. 5 steps, arc on the left lane, open."}
+{"n":489,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north slip. arc left open. 6 steps. The plywood stays for the hit."}
+{"n":490,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at the Lot. Nobody past the north slip. We hit in 7 steps. Arc on the left lane, open."}
