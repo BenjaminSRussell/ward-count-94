@@ -876,3 +876,6 @@
 {"n":876,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, west slip. arc left open. 4 steps. The awning stays for the hit."}
 {"n":877,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at the pier. Nobody past the west slip. We hit in 5 steps. Arc on the left lane, open."}
 {"n":878,"kind":"place","name":"the pier west slip","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the pier west slip. Matt keeps the awning for the hit. 6 steps, arc on the left lane, open."}
+{"n":879,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, west slip. arc left open. 7 steps. The awning stays for the hit."}
+{"n":880,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the awning at the pier. Nobody past the west slip. We hit in 8 steps. Arc on the left lane, open."}
+{"n":881,"kind":"place","name":"the pier west slip","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the pier west slip. Nia keeps the awning for the hit. 2 steps, arc on the left lane, open."}
