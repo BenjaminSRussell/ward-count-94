@@ -467,3 +467,6 @@
 {"n":467,"kind":"place","name":"Ward gate north slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate north slip. Bess keeps the plywood for the hit. 5 steps, arc on the left lane, open."}
 {"n":468,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north slip. arc left open. 6 steps. The plywood stays for the hit."}
 {"n":469,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at Kessler alley. Nobody past the north slip. We hit in 7 steps. Arc on the left lane, open."}
+{"n":470,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley north slip. Matt keeps the plywood for the hit. 8 steps, arc on the left lane, open."}
+{"n":471,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north slip. arc left open. 2 steps. The plywood stays for the hit."}
+{"n":472,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Kessler alley. Nobody past the north slip. We hit in 3 steps. Arc on the left lane, open."}
