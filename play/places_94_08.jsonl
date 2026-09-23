@@ -976,3 +976,6 @@
 {"n":976,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east slip. arc left open. 4 steps. The drum stays for the hit."}
 {"n":977,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at the Lot. Nobody past the east slip. We hit in 5 steps. Arc on the left lane, open."}
 {"n":978,"kind":"place","name":"the Lot east slip","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Lot east slip. Matt keeps the drum for the hit. 6 steps, arc on the left lane, open."}
+{"n":979,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east slip. arc left open. 7 steps. The drum stays for the hit."}
+{"n":980,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at the Lot. Nobody past the east slip. We hit in 8 steps. Arc on the left lane, open."}
+{"n":981,"kind":"place","name":"the Lot east slip","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Lot east slip. Nia keeps the drum for the hit. 2 steps, arc on the left lane, open."}
