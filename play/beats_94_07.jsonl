@@ -288,3 +288,6 @@
 {"n":288,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Kessler alley. Nobody past the west slip. We hit in 3 steps. Arc on the left lane, open."}
 {"n":289,"kind":"place","name":"Kessler alley west slip","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley west slip. Nia keeps the radio coil for the hit. 4 steps, arc on the left lane, open."}
 {"n":290,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west slip. arc left open. 5 steps. The radio coil stays for the hit."}
+{"n":291,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Kessler alley. Nobody past the west slip. We hit in 6 steps. Arc on the left lane, open."}
+{"n":292,"kind":"place","name":"Kessler alley west slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley west slip. Ivo keeps the radio coil for the hit. 7 steps, arc on the left lane, open."}
+{"n":293,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west slip. arc left open. 8 steps. The radio coil stays for the hit."}
