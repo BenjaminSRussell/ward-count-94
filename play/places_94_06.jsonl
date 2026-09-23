@@ -450,3 +450,6 @@
 {"n":450,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west slip. arc left open. 5 steps. The rope stays for the hit."}
 {"n":451,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at Kessler alley. Nobody past the west slip. We hit in 6 steps. Arc on the left lane, open."}
 {"n":452,"kind":"place","name":"Kessler alley west slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley west slip. Ivo keeps the rope for the hit. 7 steps, arc on the left lane, open."}
+{"n":453,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west slip. arc left open. 8 steps. The rope stays for the hit."}
+{"n":454,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Kessler alley. Nobody past the west slip. We hit in 2 steps. Arc on the left lane, open."}
+{"n":455,"kind":"place","name":"Kessler alley west slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley west slip. Bess keeps the rope for the hit. 3 steps, arc on the left lane, open."}
