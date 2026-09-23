@@ -761,3 +761,6 @@
 {"n":761,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Kessler alley south roof. Nia keeps the barrel for the hit. 4 steps, arc on the left lane, open."}
 {"n":762,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south roof. arc left open. 5 steps. The barrel stays for the hit."}
 {"n":763,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the barrel at Kessler alley. Nobody past the south roof. We hit in 6 steps. Arc on the left lane, open."}
+{"n":764,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley south roof. Ivo keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
+{"n":765,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south roof. arc left open. 8 steps. The barrel stays for the hit."}
+{"n":766,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Kessler alley. Nobody past the south roof. We hit in 2 steps. Arc on the left lane, open."}
