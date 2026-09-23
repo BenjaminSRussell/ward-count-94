@@ -829,3 +829,6 @@
 {"n":829,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Stockyard fence. Nobody past the north slip. We hit in 3 steps. Arc on the left lane, open."}
 {"n":830,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence north slip. Matt keeps the barrel for the hit. 4 steps, arc on the left lane, open."}
 {"n":831,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north slip. arc left open. 5 steps. The barrel stays for the hit."}
+{"n":832,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the barrel at Stockyard fence. Nobody past the north slip. We hit in 6 steps. Arc on the left lane, open."}
+{"n":833,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence north slip. Nia keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
+{"n":834,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north slip. arc left open. 8 steps. The barrel stays for the hit."}
