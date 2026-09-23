@@ -609,3 +609,6 @@
 {"n":609,"kind":"place","name":"Stockyard fence north roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Stockyard fence north roof. Nia keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
 {"n":610,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north roof. arc left open. 8 steps. The shutter stays for the hit."}
 {"n":611,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the shutter at Stockyard fence. Nobody past the north roof. We hit in 2 steps. Arc on the left lane, open."}
+{"n":612,"kind":"place","name":"Stockyard fence north roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence north roof. Ivo keeps the shutter for the hit. 3 steps, arc on the left lane, open."}
+{"n":613,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north roof. arc left open. 4 steps. The shutter stays for the hit."}
+{"n":614,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Stockyard fence. Nobody past the north roof. We hit in 5 steps. Arc on the left lane, open."}
