@@ -973,3 +973,6 @@
 {"n":973,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west slip. arc left open. 4 steps. The crate stays for the hit."}
 {"n":974,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Stockyard fence. Nobody past the west slip. We hit in 5 steps. Arc on the left lane, open."}
 {"n":975,"kind":"place","name":"Stockyard fence west slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence west slip. Bess keeps the crate for the hit. 6 steps, arc on the left lane, open."}
+{"n":976,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west slip. arc left open. 7 steps. The crate stays for the hit."}
+{"n":977,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the crate at Mall court. Nobody past the west slip. We hit in 8 steps. Arc on the left lane, open."}
+{"n":978,"kind":"place","name":"Mall court west slip","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mall court west slip. Matt keeps the crate for the hit. 2 steps, arc on the left lane, open."}
