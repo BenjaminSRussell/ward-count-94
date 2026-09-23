@@ -598,3 +598,6 @@
 {"n":598,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at Kessler alley. Nobody past the south roof. We hit in 2 steps. Arc on the left lane, open."}
 {"n":599,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley south roof. Bess keeps the hydrant for the hit. 3 steps, arc on the left lane, open."}
 {"n":600,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south roof. arc left open. 4 steps. The hydrant stays for the hit."}
+{"n":601,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the hydrant at the Lot. Nobody past the south roof. We hit in 5 steps. Arc on the left lane, open."}
+{"n":602,"kind":"place","name":"the Lot south roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot south roof. Matt keeps the hydrant for the hit. 6 steps, arc on the left lane, open."}
+{"n":603,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, south roof. arc left open. 7 steps. The hydrant stays for the hit."}
