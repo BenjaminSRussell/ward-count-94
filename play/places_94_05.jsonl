@@ -511,3 +511,6 @@
 {"n":511,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west slip. arc left open. 4 steps. The plywood stays for the hit."}
 {"n":512,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Last Light. Nobody past the west slip. We hit in 5 steps. Arc on the left lane, open."}
 {"n":513,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Last Light west slip. Nia keeps the plywood for the hit. 6 steps, arc on the left lane, open."}
+{"n":514,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, west slip. arc left open. 7 steps. The plywood stays for the hit."}
+{"n":515,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Last Light. Nobody past the west slip. We hit in 8 steps. Arc on the left lane, open."}
+{"n":516,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Last Light west slip. Ivo keeps the plywood for the hit. 2 steps, arc on the left lane, open."}
