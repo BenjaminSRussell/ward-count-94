@@ -52,3 +52,6 @@
 {"n":52,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the drum at Drydock. Nobody past the north roof. We hit in 2 steps. Arc on the left lane, open."}
 {"n":53,"kind":"place","name":"Drydock north roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock north roof. Nia keeps the drum for the hit. 3 steps, arc on the left lane, open."}
 {"n":54,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north roof. arc left open. 4 steps. The drum stays for the hit."}
+{"n":55,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Drydock. Nobody past the north roof. We hit in 5 steps. Arc on the left lane, open."}
+{"n":56,"kind":"place","name":"Drydock north roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Drydock north roof. Ivo keeps the drum for the hit. 6 steps, arc on the left lane, open."}
+{"n":57,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north roof. arc left open. 7 steps. The drum stays for the hit."}
