@@ -507,3 +507,6 @@
 {"n":507,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at the pier. Nobody past the north roof. We hit in 4 steps. Arc on the left lane, open."}
 {"n":508,"kind":"place","name":"the pier north roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier north roof. Ivo keeps the plywood for the hit. 5 steps, arc on the left lane, open."}
 {"n":509,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north roof. arc left open. 6 steps. The plywood stays for the hit."}
+{"n":510,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the plywood at the pier. Nobody past the north roof. We hit in 7 steps. Arc on the left lane, open."}
+{"n":511,"kind":"place","name":"the pier north roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier north roof. Bess keeps the plywood for the hit. 8 steps, arc on the left lane, open."}
+{"n":512,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north roof. arc left open. 2 steps. The plywood stays for the hit."}
