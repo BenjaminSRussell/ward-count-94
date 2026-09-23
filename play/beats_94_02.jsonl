@@ -500,3 +500,6 @@
 {"n":500,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at South stair. Nobody past the north roof. We hit in 3 steps. Arc on the left lane, open."}
 {"n":501,"kind":"place","name":"South stair north roof","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"South stair north roof. Nia keeps the rope for the hit. 4 steps, arc on the left lane, open."}
 {"n":502,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, north roof. arc left open. 5 steps. The rope stays for the hit."}
+{"n":503,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at South stair. Nobody past the north roof. We hit in 6 steps. Arc on the left lane, open."}
+{"n":504,"kind":"place","name":"South stair north roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"South stair north roof. Ivo keeps the rope for the hit. 7 steps, arc on the left lane, open."}
+{"n":505,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, north roof. arc left open. 8 steps. The rope stays for the hit."}
