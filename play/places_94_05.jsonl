@@ -307,3 +307,6 @@
 {"n":307,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south roof. arc left open. 3 steps. The radio coil stays for the hit."}
 {"n":308,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the radio coil at Mall court. Nobody past the south roof. We hit in 4 steps. Arc on the left lane, open."}
 {"n":309,"kind":"place","name":"Mall court south roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mall court south roof. Nia keeps the radio coil for the hit. 5 steps, arc on the left lane, open."}
+{"n":310,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south roof. arc left open. 6 steps. The radio coil stays for the hit."}
+{"n":311,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the radio coil at Mall court. Nobody past the south roof. We hit in 7 steps. Arc on the left lane, open."}
+{"n":312,"kind":"place","name":"Mall court south roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mall court south roof. Ivo keeps the radio coil for the hit. 8 steps, arc on the left lane, open."}
