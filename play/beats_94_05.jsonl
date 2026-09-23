@@ -158,3 +158,6 @@
 {"n":158,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the badge door at the Underpass. Nobody past the south roof. We hit in 8 steps. Arc on the left lane, open."}
 {"n":159,"kind":"place","name":"the Underpass south roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass south roof. Bess keeps the badge door for the hit. 2 steps, arc on the left lane, open."}
 {"n":160,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south roof. arc left open. 3 steps. The badge door stays for the hit."}
+{"n":161,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Mast yard. Nobody past the south roof. We hit in 4 steps. Arc on the left lane, open."}
+{"n":162,"kind":"place","name":"Mast yard south roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mast yard south roof. Matt keeps the badge door for the hit. 5 steps, arc on the left lane, open."}
+{"n":163,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, south roof. arc left open. 6 steps. The badge door stays for the hit."}
