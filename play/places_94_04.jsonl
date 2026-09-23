@@ -422,3 +422,6 @@
 {"n":422,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south roof. arc left open. 7 steps. The rope stays for the hit."}
 {"n":423,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rope at Ward gate. Nobody past the south roof. We hit in 8 steps. Arc on the left lane, open."}
 {"n":424,"kind":"place","name":"Ward gate south roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Ward gate south roof. Ivo keeps the rope for the hit. 2 steps, arc on the left lane, open."}
+{"n":425,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south roof. arc left open. 3 steps. The rope stays for the hit."}
+{"n":426,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rope at Ward gate. Nobody past the south roof. We hit in 4 steps. Arc on the left lane, open."}
+{"n":427,"kind":"place","name":"Ward gate south roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate south roof. Bess keeps the rope for the hit. 5 steps, arc on the left lane, open."}
