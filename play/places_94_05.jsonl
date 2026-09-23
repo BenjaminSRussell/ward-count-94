@@ -841,3 +841,6 @@
 {"n":841,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west slip. arc left open. 5 steps. The barrel stays for the hit."}
 {"n":842,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the barrel at Mast yard. Nobody past the west slip. We hit in 6 steps. Arc on the left lane, open."}
 {"n":843,"kind":"place","name":"Mast yard west slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard west slip. Bess keeps the barrel for the hit. 7 steps, arc on the left lane, open."}
+{"n":844,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west slip. arc left open. 8 steps. The barrel stays for the hit."}
+{"n":845,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the barrel at Last Light. Nobody past the west slip. We hit in 2 steps. Arc on the left lane, open."}
+{"n":846,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light west slip. Matt keeps the barrel for the hit. 3 steps, arc on the left lane, open."}
