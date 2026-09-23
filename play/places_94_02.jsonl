@@ -793,3 +793,6 @@
 {"n":793,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north roof. arc left open. 2 steps. The awning stays for the hit."}
 {"n":794,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the awning at Mall court. Nobody past the north roof. We hit in 3 steps. Arc on the left lane, open."}
 {"n":795,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mall court north roof. Bess keeps the awning for the hit. 4 steps, arc on the left lane, open."}
+{"n":796,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north roof. arc left open. 5 steps. The awning stays for the hit."}
+{"n":797,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the awning at the Underpass. Nobody past the north roof. We hit in 6 steps. Arc on the left lane, open."}
+{"n":798,"kind":"place","name":"the Underpass north roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Underpass north roof. Matt keeps the awning for the hit. 7 steps, arc on the left lane, open."}
