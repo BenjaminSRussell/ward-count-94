@@ -485,3 +485,6 @@
 {"n":485,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the plywood at the Underpass. Nobody past the west slip. We hit in 6 steps. Arc on the left lane, open."}
 {"n":486,"kind":"place","name":"the Underpass west slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass west slip. Matt keeps the plywood for the hit. 7 steps, arc on the left lane, open."}
 {"n":487,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west slip. arc left open. 8 steps. The plywood stays for the hit."}
+{"n":488,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at the Underpass. Nobody past the west slip. We hit in 2 steps. Arc on the left lane, open."}
+{"n":489,"kind":"place","name":"the Underpass west slip","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass west slip. Nia keeps the plywood for the hit. 3 steps, arc on the left lane, open."}
+{"n":490,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, west slip. arc left open. 4 steps. The plywood stays for the hit."}
