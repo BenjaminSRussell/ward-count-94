@@ -249,3 +249,6 @@
 {"n":249,"kind":"place","name":"Kessler alley north roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley north roof. Nia keeps the rebar for the hit. 4 steps, arc on the left lane, open."}
 {"n":250,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north roof. arc left open. 5 steps. The rebar stays for the hit."}
 {"n":251,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the rebar at Kessler alley. Nobody past the north roof. We hit in 6 steps. Arc on the left lane, open."}
+{"n":252,"kind":"place","name":"Kessler alley north roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley north roof. Ivo keeps the rebar for the hit. 7 steps, arc on the left lane, open."}
+{"n":253,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north roof. arc left open. 8 steps. The rebar stays for the hit."}
+{"n":254,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at Kessler alley. Nobody past the north roof. We hit in 2 steps. Arc on the left lane, open."}
