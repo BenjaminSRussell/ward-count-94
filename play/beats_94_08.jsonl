@@ -581,3 +581,6 @@
 {"n":581,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rope at Switchyard. Nobody past the east slip. We hit in 8 steps. Arc on the left lane, open."}
 {"n":582,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard east slip. Matt keeps the rope for the hit. 2 steps, arc on the left lane, open."}
 {"n":583,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east slip. arc left open. 3 steps. The rope stays for the hit."}
+{"n":584,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rope at Switchyard. Nobody past the east slip. We hit in 4 steps. Arc on the left lane, open."}
+{"n":585,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard east slip. Nia keeps the rope for the hit. 5 steps, arc on the left lane, open."}
+{"n":586,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east slip. arc left open. 6 steps. The rope stays for the hit."}
