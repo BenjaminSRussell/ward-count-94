@@ -372,3 +372,6 @@
 {"n":372,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east roof. arc left open. 3 steps. The rebar stays for the hit."}
 {"n":373,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at High line. Nobody past the east roof. We hit in 4 steps. Arc on the left lane, open."}
 {"n":374,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line east roof. Matt keeps the rebar for the hit. 5 steps, arc on the left lane, open."}
+{"n":375,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, east roof. arc left open. 6 steps. The rebar stays for the hit."}
+{"n":376,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the rebar at High line. Nobody past the east roof. We hit in 7 steps. Arc on the left lane, open."}
+{"n":377,"kind":"place","name":"High line east roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line east roof. Nia keeps the rebar for the hit. 8 steps, arc on the left lane, open."}
