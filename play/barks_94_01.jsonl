@@ -985,3 +985,6 @@
 {"n":985,"kind":"place","name":"Last Light north roof","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Last Light north roof. Nia keeps the crate for the hit. 6 steps, arc on the left lane, open."}
 {"n":986,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, north roof. arc left open. 7 steps. The crate stays for the hit."}
 {"n":987,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at Last Light. Nobody past the north roof. We hit in 8 steps. Arc on the left lane, open."}
+{"n":988,"kind":"place","name":"Last Light north roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Last Light north roof. Ivo keeps the crate for the hit. 2 steps, arc on the left lane, open."}
+{"n":989,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north roof. arc left open. 3 steps. The crate stays for the hit."}
+{"n":990,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at Last Light. Nobody past the north roof. We hit in 4 steps. Arc on the left lane, open."}
