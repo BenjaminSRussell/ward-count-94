@@ -957,3 +957,6 @@
 {"n":957,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east roof. arc left open. 7 steps. The drum stays for the hit."}
 {"n":958,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at the Underpass. Nobody past the east roof. We hit in 8 steps. Arc on the left lane, open."}
 {"n":959,"kind":"place","name":"the Underpass east roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass east roof. Bess keeps the drum for the hit. 2 steps, arc on the left lane, open."}
+{"n":960,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east roof. arc left open. 3 steps. The drum stays for the hit."}
+{"n":961,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the drum at Mast yard. Nobody past the east roof. We hit in 4 steps. Arc on the left lane, open."}
+{"n":962,"kind":"place","name":"Mast yard east roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Mast yard east roof. Matt keeps the drum for the hit. 5 steps, arc on the left lane, open."}
