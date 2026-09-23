@@ -943,3 +943,6 @@
 {"n":943,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the crate at the Lot. Nobody past the south roof. We hit in 4 steps. Arc on the left lane, open."}
 {"n":944,"kind":"place","name":"the Lot south roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot south roof. Ivo keeps the crate for the hit. 5 steps, arc on the left lane, open."}
 {"n":945,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south roof. arc left open. 6 steps. The crate stays for the hit."}
+{"n":946,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the crate at the Lot. Nobody past the south roof. We hit in 7 steps. Arc on the left lane, open."}
+{"n":947,"kind":"place","name":"the Lot south roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot south roof. Bess keeps the crate for the hit. 8 steps, arc on the left lane, open."}
+{"n":948,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south roof. arc left open. 2 steps. The crate stays for the hit."}
