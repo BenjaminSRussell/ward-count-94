@@ -290,3 +290,6 @@
 {"n":290,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the rebar at Ward gate. Nobody past the east slip. We hit in 4 steps. Arc on the left lane, open."}
 {"n":291,"kind":"place","name":"Ward gate east slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate east slip. Bess keeps the rebar for the hit. 5 steps, arc on the left lane, open."}
 {"n":292,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, east slip. arc left open. 6 steps. The rebar stays for the hit."}
+{"n":293,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the rebar at Kessler alley. Nobody past the east slip. We hit in 7 steps. Arc on the left lane, open."}
+{"n":294,"kind":"place","name":"Kessler alley east slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley east slip. Matt keeps the rebar for the hit. 8 steps, arc on the left lane, open."}
+{"n":295,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, east slip. arc left open. 2 steps. The rebar stays for the hit."}
