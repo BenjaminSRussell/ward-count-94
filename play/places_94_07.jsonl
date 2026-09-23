@@ -188,3 +188,6 @@
 {"n":188,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west slip. arc left open. 8 steps. The badge door stays for the hit."}
 {"n":189,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the badge door at Last Light. Nobody past the west slip. We hit in 2 steps. Arc on the left lane, open."}
 {"n":190,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light west slip. Matt keeps the badge door for the hit. 3 steps, arc on the left lane, open."}
+{"n":191,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west slip. arc left open. 4 steps. The badge door stays for the hit."}
+{"n":192,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the badge door at Last Light. Nobody past the west slip. We hit in 5 steps. Arc on the left lane, open."}
+{"n":193,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Last Light west slip. Nia keeps the badge door for the hit. 6 steps, arc on the left lane, open."}
