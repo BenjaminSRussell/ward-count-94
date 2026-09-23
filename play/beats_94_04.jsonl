@@ -726,3 +726,6 @@
 {"n":726,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Switchyard. Nobody past the south roof. We hit in 3 steps. Arc on the left lane, open."}
 {"n":727,"kind":"place","name":"Switchyard south roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard south roof. Bess keeps the shutter for the hit. 4 steps, arc on the left lane, open."}
 {"n":728,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south roof. arc left open. 5 steps. The shutter stays for the hit."}
+{"n":729,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at Drydock. Nobody past the south roof. We hit in 6 steps. Arc on the left lane, open."}
+{"n":730,"kind":"place","name":"Drydock south roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock south roof. Matt keeps the shutter for the hit. 7 steps, arc on the left lane, open."}
+{"n":731,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south roof. arc left open. 8 steps. The shutter stays for the hit."}
