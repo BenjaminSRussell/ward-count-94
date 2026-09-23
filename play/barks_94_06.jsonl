@@ -752,3 +752,6 @@
 {"n":752,"kind":"place","name":"Drydock west slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock west slip. Ivo keeps the shutter for the hit. 6 steps, arc on the left lane, open."}
 {"n":753,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west slip. arc left open. 7 steps. The shutter stays for the hit."}
 {"n":754,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the shutter at Drydock. Nobody past the west slip. We hit in 8 steps. Arc on the left lane, open."}
+{"n":755,"kind":"place","name":"Drydock west slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Drydock west slip. Bess keeps the shutter for the hit. 2 steps, arc on the left lane, open."}
+{"n":756,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west slip. arc left open. 3 steps. The shutter stays for the hit."}
+{"n":757,"kind":"bark","speaker":"Sam","moment":"hit","line":"Sam: Hold the shutter at High line. Nobody past the west slip. We hit in 4 steps. Arc on the left lane, open."}
