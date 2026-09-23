@@ -641,3 +641,6 @@
 {"n":641,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Kessler alley north slip. Nia keeps the hydrant for the hit. 4 steps, arc on the left lane, open."}
 {"n":642,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north slip. arc left open. 5 steps. The hydrant stays for the hit."}
 {"n":643,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the hydrant at Kessler alley. Nobody past the north slip. We hit in 6 steps. Arc on the left lane, open."}
+{"n":644,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley north slip. Ivo keeps the hydrant for the hit. 7 steps, arc on the left lane, open."}
+{"n":645,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north slip. arc left open. 8 steps. The hydrant stays for the hit."}
+{"n":646,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the hydrant at Kessler alley. Nobody past the north slip. We hit in 2 steps. Arc on the left lane, open."}
