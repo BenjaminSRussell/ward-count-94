@@ -959,3 +959,6 @@
 {"n":959,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the drum at Mall court. Nobody past the north roof. We hit in 7 steps. Arc on the left lane, open."}
 {"n":960,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mall court north roof. Ivo keeps the drum for the hit. 8 steps, arc on the left lane, open."}
 {"n":961,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north roof. arc left open. 2 steps. The drum stays for the hit."}
+{"n":962,"kind":"bark","speaker":"Ada","moment":"hit","line":"Ada: Hold the drum at Mall court. Nobody past the north roof. We hit in 3 steps. Arc on the left lane, open."}
+{"n":963,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court north roof. Bess keeps the drum for the hit. 4 steps, arc on the left lane, open."}
+{"n":964,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north roof. arc left open. 5 steps. The drum stays for the hit."}
