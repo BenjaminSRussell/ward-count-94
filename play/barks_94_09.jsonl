@@ -602,3 +602,6 @@
 {"n":602,"kind":"place","name":"Drydock north slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock north slip. Matt keeps the plywood for the hit. 7 steps, arc on the left lane, open."}
 {"n":603,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north slip. arc left open. 8 steps. The plywood stays for the hit."}
 {"n":604,"kind":"bark","speaker":"Lis","moment":"hit","line":"Lis: Hold the plywood at Drydock. Nobody past the north slip. We hit in 2 steps. Arc on the left lane, open."}
+{"n":605,"kind":"place","name":"Drydock north slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock north slip. Nia keeps the plywood for the hit. 3 steps, arc on the left lane, open."}
+{"n":606,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north slip. arc left open. 4 steps. The plywood stays for the hit."}
+{"n":607,"kind":"bark","speaker":"June","moment":"hit","line":"June: Hold the plywood at Drydock. Nobody past the north slip. We hit in 5 steps. Arc on the left lane, open."}
